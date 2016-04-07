@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+  <extension type="integer">109</extension>
+  <id type="integer">1</id>
+  <name>Amanda Taylor</name>
+</employee>
